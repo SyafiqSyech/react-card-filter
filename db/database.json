@@ -1,0 +1,118 @@
+{
+  "creatures": [
+    {
+      "id": 1,
+      "title": "Dragon",
+      "description": "Legendary fire-breathing reptilian creature known in various mythologies.",
+      "attribute": [
+        "Horned",
+        "Aerial",
+        "Giant"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Phoenix",
+      "description": "A mystical bird that regenerates or is reborn from its ashes.",
+      "attribute": [
+        "Aerial",
+        "Immortal",
+        "Magical"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Mermaid",
+      "description": "A sea creature with the upper body of a human and the tail of a fish.",
+      "attribute": [
+        "Aquatic",
+        "Magical",
+        "Shape-shifting"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Unicorn",
+      "description": "A horse-like creature with a single spiraled horn on its forehead.",
+      "attribute": [
+        "Horned",
+        "Magical",
+        "Giant"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Griffin",
+      "description": "A creature with the body of a lion and the head and wings of an eagle.",
+      "attribute": [
+        "Aerial",
+        "Winged",
+        "Giant"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Kraken",
+      "description": "A legendary sea monster of gigantic size, often depicted as a massive squid or octopus.",
+      "attribute": [
+        "Aquatic",
+        "Giant",
+        "Magical"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Sphinx",
+      "description": "A mythical creature with the body of a lion, the wings of a bird, and the head of a human.",
+      "attribute": [
+        "Winged",
+        "Magical",
+        "Giant"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Basilisk",
+      "description": "A serpentine creature, often said to be able to kill with a single glance.",
+      "attribute": [
+        "Horned",
+        "Magical",
+        "Aerial"
+      ]
+    }
+  ],
+  "attributePicker": [
+    {
+      "id" : 1,
+      "name": "Horned"
+    },
+    {
+      "id" : 2,
+      "name": "Aerial"
+    },
+    {
+      "id" : 3,
+      "name": "Giant"
+    },
+    {
+      "id" : 4,
+      "name": "Immortal"
+    },
+    {
+      "id" : 5,
+      "name": "Magical"
+    },
+    {
+      "id" : 6,
+      "name": "Aquatic"
+    },
+    {
+      "id" : 7,
+      "name": "Shape-shifting"
+    },
+    {
+      "id" : 8,
+      "name": "Winged"
+    }
+  ]
+}
